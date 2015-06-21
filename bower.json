@@ -1,0 +1,21 @@
+{
+  "name": "col-resizable",
+  "version": "1.5",
+  "homepage": "http://bacubacu.com/colresizable/",
+  "authors": [
+    "Alvaro Prieto Lauroba"
+  ],
+  "description": "A library to resize columns of table (or other elements)",
+  "main": "colResizable-1.5.min.js",
+  "keywords": [
+    "colresizable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
